@@ -1,5 +1,5 @@
 # Kyto's cute Christmas cacophonies
-======
+===
 
 ## It is nearly summer 2020, so what we need now is Christmas vibes :)!
 
@@ -38,5 +38,5 @@ Yes, the earth is flat. But it is not part of these unit tests.
 ---
 
 ## On a more Sirius note - Tech used in this masterpiece:
-⋅⋅* Composer was installed to install phpunit
-⋅⋅* PHPUnit was installed to write Unit Tests
+* Composer was installed to install phpunit
+* PHPUnit was installed to write Unit Tests
