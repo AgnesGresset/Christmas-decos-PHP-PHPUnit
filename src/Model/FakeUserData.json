@@ -1,0 +1,14 @@
+{
+    "user1": [
+        { "tree" : "s" },
+        { "tree" : "m" },
+        { "tree" : "l" },
+        { "tinsel" : "l" }
+    ],
+    "user2": [
+        { "star" : "s" },
+        { "star" : "m" },
+        { "star" : "l" },
+        { "tree" : "xs" }
+    ]
+}

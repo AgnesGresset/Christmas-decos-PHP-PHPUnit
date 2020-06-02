@@ -1,0 +1,15 @@
+{
+    "fake_user1": [
+        { "tree" : "s" },
+        { "tree" : "m" },
+        { "tree" : "l" },
+        { "tinsel" : "l" }
+    ],
+    "fake_user2": [
+        { "star" : "s" },
+        { "star" : "m" },
+        { "star" : "l" },
+        { "tree" : "xs" }
+    ]
+}
+

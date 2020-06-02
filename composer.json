@@ -1,0 +1,6 @@
+{
+    "name": "agnes/kyto",
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    }
+}

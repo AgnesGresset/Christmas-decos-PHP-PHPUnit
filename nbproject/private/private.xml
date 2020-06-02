@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Applications/MAMP/htdocs/kyto/src/Model/UserData.php</file>
+            <file>file:/Applications/MAMP/htdocs/kyto/src/Controller/ShapeFactory.php</file>
+            <file>file:/Applications/MAMP/htdocs/kyto/tests/Controller/TreeGeneratorTest.php</file>
+            <file>file:/Applications/MAMP/htdocs/kyto/tests/Model/TestFakeUserData.json</file>
+            <file>file:/Applications/MAMP/htdocs/kyto/tests/Model/UserDataTest.php</file>
+            <file>file:/Applications/MAMP/htdocs/kyto/tests/Controller/ShapeFactoryTest.php</file>
+            <file>file:/Applications/MAMP/htdocs/kyto/tests/Controller/StarGeneratorTest.php</file>
+        </group>
+    </open-files>
+</project-private>
