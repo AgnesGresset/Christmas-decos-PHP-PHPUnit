@@ -1,4 +1,4 @@
-# Kyto's cute Christmas cacophonies
+# Cute Christmas cacophonies
 
 ---
 
